@@ -1,7 +1,7 @@
 # Passport-Goodreads
 
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
-with [Goodreads](http://www.goodreads.com/) using the OAuth 1.0 API.
+with [Goodreads](https://www.goodreads.com/) using the OAuth 1.0 API.
 
 This module lets you authenticate using Goodreads in your Node.js applications.
 By plugging into Passport, Goodreads authentication can be easily and

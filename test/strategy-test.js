@@ -39,7 +39,7 @@ vows.describe('GoodreadsStrategy').addBatch({
           </Request> \
           <user id="817656"> \
         	<name><![CDATA[Jared Hanson]]></name> \
-        	<link><![CDATA[http://www.goodreads.com/user/show/817656-jared-hanson?utm_medium=api]]></link> \
+        	<link><![CDATA[https://www.goodreads.com/user/show/817656-jared-hanson?utm_medium=api]]></link> \
         </user> \
         </GoodreadsResponse>';
         
